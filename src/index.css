@@ -9,4 +9,5 @@ body { margin: 0; min-width: 320px; }
 button, a { -webkit-tap-highlight-color: transparent; }
 h1, h2, h3, .font-black { font-family: 'Space Grotesk', sans-serif; }
 .phone-shadow { box-shadow: 24px 30px 60px rgba(20, 18, 8, 0.25), 0 0 0 1px rgba(0, 0, 0, 0.15); }
+#top > #open-source { display: none; }
 ::selection { background: #facc15; color: #151515; }
